@@ -1,4 +1,4 @@
-# Product Data Cleaning & SEO Optimization Project
+# Product Data Cleaning & Optimization Project
 
 ##  Introduction
 This repository documents the end-to-end data transformation of a raw marketing dataset consisting of **3,847 product entries**. The project addresses a critical business challenge: transforming "noisy," inconsistent, and fragmented data into a structured, high-fidelity asset. By transitioning from simple data exploration to rigorous remediation, this project ensures the data is mathematically sound and ready for SEO deployment.
