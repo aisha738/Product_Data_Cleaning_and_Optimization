@@ -15,7 +15,7 @@ The primary goal was to establish a "Single Source of Truth" for product marketi
     * `productdata_raw.xlsx`: The original, unrefined dataset with duplicates and formatting inconsistencies.
     * `productdata_cleaned.xlsx`: The final, analysis-ready version with standardized headers and optimized titles.
 * **`documentation/`**
-    * `Aisha_Abdulkarim_Technical_Report.docx`: A professional document detailing the technical methodology and quality audit.
+    * `Technical_Report.docx`: A professional document detailing the technical methodology and quality audit.
     * `Process_Walkthrough.docx`: A rich, step-by-step guide illustrating the exact Excel formulas and logical steps taken.
 
 ## Technical Methodology
